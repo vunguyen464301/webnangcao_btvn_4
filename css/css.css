@@ -1,0 +1,11 @@
+.header{
+  text-align: center;
+  color:rgb(117, 78, 78);
+}
+.container{
+  color:rgb(117, 78, 78);
+}
+button{
+  float: right;
+  border-radius: 0px !important;
+}

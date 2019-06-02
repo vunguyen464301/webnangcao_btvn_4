@@ -1,0 +1,62 @@
+.input-group{
+    margin-top:10px;
+}
+.input-group-prepend{
+    border-right:0px;
+}
+.input-group-text{
+    background: white;
+    border-right:0px
+}
+.form-control{
+    border-left:0px;
+}
+.form-control:focus{
+    outline: 0!important;
+    outline-color: white;
+}
+.righttool{
+    font-size: 20px;
+    margin-top:5px;
+    margin-left:25px;
+    color:white;
+}
+.header1{
+    position: absolute;
+    width: 100%;
+    z-index:1;
+}
+.item{
+
+  
+   width: 400px;;
+ 
+}
+.item ul{
+    
+    overflow: visible;
+    display: inline;
+    list-style-type: none;
+    margin: 0; /* thụt lề bằng 0 */
+    padding: 0; /* vùng đệm để đẩy thành phần chứa bên trong thụt vô bằng 0 */
+    overflow: hidden; /* nếu chữ/ hình bị tràn ra ngoài, cắt bỏ */
+ 
+
+    
+}
+.item li{
+    float: left;
+    width: 85px;
+
+    
+    
+}
+.item li img{
+    width: 70%;
+    margin-left: 20px;
+}
+.item li p{
+    text-align: center;
+    font-size: 10px;
+    margin-left: 14px;
+}
